@@ -60,3 +60,7 @@ Cadena de ataques que no respetan la ciberseguridad
 - Installation 
 - C2: Command and Control
 - Actions
+
+
+#investigate 
+- Malware backdoor

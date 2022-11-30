@@ -5,7 +5,7 @@
 
 [[Authentication]]: sender, receiver want to confirm identify each other.
 
-[[Message Integrity]]: sender, receiver want to ensure message not altered (in transit, or afterwards) without detection. 
+Message [[Integrity]]: sender, receiver want to ensure message not altered (in transit, or afterwards) without detection. 
 
 [[Access and Availability]]: services must be accessible and available to users
 

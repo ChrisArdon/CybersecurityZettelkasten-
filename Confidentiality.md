@@ -1,5 +1,8 @@
 # Confidentiality
 
 ### Confidentiality protects secrets 
-Confidentiality is one of the core concepts of cybersecurity.  Simply put, confidentiality ensures that **[[secret information]] is protected from unauthorized disclosure**.
+Confidentiality is one of the core concepts of [[cybersecurity]].  Simply put, confidentiality ensures that **[[secret information]] is protected from unauthorized disclosure**.
 Protecting confidentiality is a responsibility shared between technologists and everyone else in the organization. Clearly, cybersecurity professionals and other IT staff **bear the burden of ensuring that confidentiality controls are in place and functioning properly**. However, it's important to remember that everyone with access to sensitive information has a role to play in preserving the confidentiality of that [[data]].
+However, confidentiality is only one of three concepts that together make up de foundation of cybersecurity work. The remaining two principles, [[Integrity]] and [[Availability]], round out cybersecurity's well-known **"CIA Triad"**.
+Confidentiality controls protect against unauthorized use of information already in the hands of an institution, whereas *privacy protects rights of an individual* to control the information that the institutions collects, maintains and shares with others.
+One way to understand the relationship between [[privacy]] and confidentiality is that **privacy requirements dictate the types of authorization granted to information**, and confidentiality controls ensure that people and systems meet those privacy obligations. 
