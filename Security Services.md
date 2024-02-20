@@ -18,4 +18,7 @@ This security services and this attacks classifications come from a great textbo
 - **Authentication -** assurance that communicating entity is the one claimed 
 	- have both peer-entity & data origin authentication
 - **Access Control -** prevention of the unauthorized use of a resource
-- 
+- **Data Confidentiality** - protection of data from unauthorized disclosure
+- **Data Integrity** - assurance that data received is as sent by an authorized entity
+- **Non-repudiation** - protect against denial by one of the parties in a communication 
+- **Availability** - resource accesible/usable

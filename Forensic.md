@@ -1,20 +1,20 @@
 - La informática forense es la ciencia de adquirir, preservar, obtener y presentar datos que han sido procesados electronicamente y guardados en soportes informáticos. Se trata de una practica cada vez mas habitual debido al uso que actualmente todos realizamos uso de las nuevas tecnologías, y que permite resolver casos policiales o judiciales. 
-- Tanto las fuerzas y cuerpos de seguridad del Estado como los peritos informaticos forenses utilizan herramientas y procedimientos especificos para la recoleccion de informacion de dispositivos que van desde computadoras o telefonos moviles hasta servidores de correo electronico, por ejemplo.
-- Aunque un delito no sea informatico, si que hay pruebas digitales, y puesto que todas las actividades que se realizan con un dispositivo (de forma manual o automatica) dejan una prueba, es posible que la misma sea analizada junto con el resto de pruebas de un caso.
-- Son procedimientos y tecnicas forenses que son utilizados con fines investigativos, en su mayoria criminales.
+- Tanto las fuerzas y cuerpos de seguridad del Estado como los peritos informáticos forenses utilizan herramientas y procedimientos específicos para la recolección de información de dispositivos que van desde computadoras o teléfonos móviles hasta servidores de correo electrónico, por ejemplo.
+- Aunque un delito no sea informático, si que hay pruebas digitales, y puesto que todas las actividades que se realizan con un dispositivo (de forma manual o automatica) dejan una prueba, es posible que la misma sea analizada junto con el resto de pruebas de un caso.
+- Son procedimientos y técnicas forenses que son utilizados con fines investigativos, en su mayoría criminales.
 
 ## Conocimientos necesarios para trabajar en informatica forense
 
-1. Redes. El conocimiento de como se realizan las comunicaciones es vital al moment de querer deshilvanar como sucedio un delito en entornos digitales.
-2. Linux. Muchas de las herramientas forenses estan basadas en entornos [[UNIX]], sobre todo las gratuitas.
-3. Seguridad informatica. El conocimiento sobre seguridad informatica es muchas veces sumamente util en forense, ya que permite descubrir el modus operandi de un ciberdelincuente, como pudo lograr realizar el delito.
-4. Legales. Tener como nocion sobre aspectos legales en base a cada pais es util para saber asociar un supuesto crimen con lo que seria realmente un delito para la ley.
-5. Cibercrimen y evidencia digital. La metodologia al momento de recolectar evidencia e identificar lo que se considera un  cibercrimen en el ambito legal, implica una capacitacion especifica sobre ello.
-6. Actualizacion permanente. Como todo lo relacionado a la tecnologia, nos obliga a estar a la vanguardia de las nuevas tecnologias y todo lo nuevo que haya para aprender.
+1. Redes. El conocimiento de como se realizan las comunicaciones es vital al momento de querer deshilvanar como sucedió un delito en entornos digitales.
+2. Linux. Muchas de las herramientas forenses están basadas en entornos [[UNIX]], sobre todo las gratuitas.
+3. Seguridad informática. El conocimiento sobre seguridad informática es muchas veces sumamente útil en forense, ya que permite descubrir el modus operandi de un ciberdelincuente, como pudo lograr realizar el delito.
+4. Legales. Tener como noción sobre aspectos legales en base a cada país es útil para saber asociar un supuesto crimen con lo que seria realmente un delito para la ley.
+5. Cibercrimen y evidencia digital. La metodologia al momento de recolectar evidencia e identificar lo que se considera un  cibercrimen en el ámbito legal, implica una capacitación especifica sobre ello.
+6. Actualización permanente. Como todo lo relacionado a la tecnología, nos obliga a estar a la vanguardia de las nuevas tecnologías y todo lo nuevo que haya para aprender.
 
 
-## Objetivos de la informatica forense
-En caso de que se haya producido una brecha de seguridad, estos son los objetivos esenciales del uso de la **computacion forense**:
+## Objetivos de la informática forense
+En caso de que se haya producido una brecha de seguridad, estos son los objetivos esenciales del uso de la **computación forense**:
 1. Ayuda a recuperar, analizar y preservar la computadora y los materiales relacionados de tal manera que ayuda a la agencia de investigacion a presentarlos como evidencia en un tribunal de justicia.
 2. Ayuda a postular el motivo detras del crimen y la identidad del principal culpable.
 3. Diseñar procedimientos en una presunta escena del crimen que ayudan a garantizar que la evidencia digital obtenida no este corrupta.
